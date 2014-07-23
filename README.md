@@ -9,11 +9,11 @@ Contents/Contenido:
 
 USB to Serial adaptor.
 
-[Datasheet](https://github.com/makerlabmx/usb-serial-hardware/raw/master/USB-Serial-Datasheet-EN.pdf)
+[Download Datasheet](https://github.com/makerlabmx/usb-serial-hardware/raw/master/USB-Serial-Datasheet-EN.pdf)
 
 # Spanish
 # USB-Serial
 
 Adaptador de USB a Serial.
 
-[Datasheet](https://github.com/makerlabmx/usb-serial-hardware/raw/master/USB-Serial-Datasheet-ES.pdf)
+[Descargar Datasheet](https://github.com/makerlabmx/usb-serial-hardware/raw/master/USB-Serial-Datasheet-ES.pdf)
