@@ -1,18 +1,18 @@
+# USB-Serial
+
 Contents/Contenido:
 - [English](#user-content-english)
 - [Español](#user-content-spanish)
 
 * * *
 
-# English
-# USB-Serial
+## English
 
 USB to Serial adaptor.
 
 [Download Datasheet](https://github.com/makerlabmx/usb-serial-hardware/raw/master/USB-Serial-Datasheet-EN.pdf)
 
-# Spanish
-# USB-Serial
+## Spanish
 
 Adaptador de USB a Serial.
 
